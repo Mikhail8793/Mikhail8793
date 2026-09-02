@@ -1,16 +1,46 @@
 ## Hi there 👋
+🐘 PostgreSQL | Linux | SQL | PL/pgSQL | Bash
 
-<!--
-**Mikhail8793/Mikhail8793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Изучаю и практикую администрирование PostgreSQL.
+Интересуюсь производительностью баз данных, резервным копированием,
+репликацией, мониторингом и автоматизацией DBA-задач.
 
-Here are some ideas to get you started:
+## 🛠 Навыки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### PostgreSQL
+- Установка и настройка PostgreSQL
+- Управление пользователями, ролями и правами
+- Работа с базами, схемами и tablespaces
+- VACUUM / ANALYZE
+- Индексы
+- EXPLAIN / EXPLAIN ANALYZE
+- Оптимизация SQL-запросов
+- Backup / Restore
+- pg_dump / pg_restore
+- WAL
+- Основы Streaming Replication
+- Мониторинг PostgreSQL
+- PL/pgSQL
+
+### Linux
+- Debian / Ubuntu / Kali Linux
+- Bash
+- systemd
+- SSH
+- процессы и права доступа
+- файловая система
+- сетевые инструменты
+
+### Инструменты
+- Git
+- Docker
+- PostgreSQL CLI
+- DBeaver / pgAdmin
+
+## 📚 Сейчас изучаю
+- Продвинутое администрирование PostgreSQL
+- PL/pgSQL
+- Репликацию PostgreSQL
+- Мониторинг и поиск проблем производительности
+- Высокую доступность PostgreSQL
+- Автоматизацию DBA-задач
