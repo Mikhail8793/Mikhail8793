@@ -1,4 +1,4 @@
-## Hi there 👋
+## Всем привет 👋
 🐘 PostgreSQL | Linux | SQL | PL/pgSQL | Bash
 
 Изучаю и практикую администрирование PostgreSQL.
