@@ -24,7 +24,6 @@
 
 ### Linux
 - Debian / Ubuntu / Kali Linux
-- Bash
 - systemd
 - SSH
 - процессы и права доступа
